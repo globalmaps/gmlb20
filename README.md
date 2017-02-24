@@ -9,6 +9,6 @@ Credit: "Global Map of Lebanon © ISCGM/National Council for Scientific Research
 
 Contact: National Council for Scientific Research - Remote Sensing Center.
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/lebanon.png)
+E-mail: ![email](email.png)
 
 URL: www.cnrs.edu.lb
